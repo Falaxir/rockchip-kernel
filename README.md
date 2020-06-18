@@ -1,7 +1,15 @@
-MRFIXIT Rockchip Kernel:
+# Rockchip Kernel
 
-This is a fork of Rockchip's BSP kernel, located here: https://github.com/rockchip-linux/kernel
+## Francais
 
-This fork has lots of patches, mainline backports, and custom fixes.
+Kernel Linux personnalisé pour ajouter le support de cartes NVIDIA.
+Marche uniquement sur rockpro64.
 
-All work has specifically been to support these boards in MrFixIt's releases (found in his other GitHub repositories): RockPi4, Rock64, Rockbox, Pinebook Pro, and Rockpro64
+## English
+
+Custom linux kernel for adding support for Nvidia GPU.
+Only works on rockpro64.
+
+# Credits
+
+Based on MRFIXIT kernel : https://github.com/mrfixit2001/rockchip-kernel
