@@ -1,3 +1,7 @@
+# Note : Abandoned Project
+buy a x86 platform refurbished pc instead.
+may be soon possible since apple will provide egpu support for they arm macbook.
+
 # Rockchip Kernel
 
 ## Francais
